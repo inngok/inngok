@@ -44,17 +44,7 @@
 ### Stats
 
 <p align="center">
-  <!-- Đã sửa domain về trang chính thức -->
-  <img src="https://github-readme-stats.vercel.app/api?username=inngok&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=inngok&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Đã sửa domain về trang chính thức -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inngok&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
